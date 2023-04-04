@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyAPP.iml" filepath="$PROJECT_DIR$/.idea/modules/MyAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MyAPP.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MyAPP.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-191352540/MyAPP.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-191352540/MyAPP.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-885125408/MyAPP.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-885125408/MyAPP.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-900550153/MyAPP.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-900550153/MyAPP.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1488901984/MyAPP.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1488901984/MyAPP.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2006503608/MyAPP.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/2006503608/MyAPP.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/412325514/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/412325514/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>
